@@ -1,0 +1,8 @@
+1. This project needs Java 1.8
+2. Used Hipster library to find shortest Nodes, i tweaked some code of it to inject vertex dynamically.
+    But i have seen one issue with this library, when entry point is second node in conveyor system 
+    it is not returning results properly.
+3. You can run App.java to test application.
+4. Created three beans to represent the three Sections, conveyor system, departures and Bags.
+5. I have created sample data using three text files and read the same in SampleData java file.
+6. Created One test class  BaggageRouteServiceTest to test the functionality .
